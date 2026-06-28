@@ -1,0 +1,9 @@
+{
+  "name": "aethelis-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Vercel pour AETHELIS — Claude AI, cours Yahoo Finance, Stripe",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
